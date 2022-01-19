@@ -1,2 +1,3 @@
 site_name: My Multi Docs Child Element
-nav: index.md
+nav:
+  - Foo: index.md
